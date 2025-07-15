@@ -1,0 +1,16 @@
+{
+    "name": "hilado/gs",
+    "description": "Basic Student Grading System",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hilado\\Gs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hilado C."
+        }
+    ],
+    "require": {}
+}
